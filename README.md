@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CyberCuCuber
-- 👀 I'm interested in cybersecurity and DevOps specialization
+- 👀 I'm interested in Python, CyberSecurity and DevOps specialization
 - 🌱 I am currently studying at the TeachMeSkills online school with a specialization in DevOps
 - 📫 How to reach me: ruslan.polikarpov.2014@gmail.com
 
